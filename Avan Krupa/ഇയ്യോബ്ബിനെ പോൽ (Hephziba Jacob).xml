@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T16:13:14">
+  <properties>
+    <titles>
+      <title>ഇയ്യോബ്ബിനെ പോൽ</title>
+      <title>Iyobine pol</title>
+    </titles>
+    <copyright>Rafa Media International</copyright>
+    <authors>
+      <author>Hephziba Jacob</author>
+    </authors>
+    <songbooks>
+      <songbook name="Avan Krupa"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ഇയ്യോബ്ബിനെപോൽ ഞാൻ കാണുന്നു <br/>എന്‍റെ കണ്ണാൽ ഞാൻ കണ്ടിടുന്നു <br/>വിശ്വാസത്താൽ ഞാൻ കണ്ടിടുന്നു <br/>എന്‍റെ പ്രിയന്റെ പൊന്നുമുഖം </lines>
+    </verse>
+    <verse name="v1">
+      <lines>ലോകം എനിക്കെതിരായി മാറിടും <br/>ഞാനൊട്ടും പിന്മാറുകയില്ല <br/>ദൈവത്തിലെന്നും ആശ്രയിച്ചിടും <br/>അന്ത്യത്തോളം പൂർണമായി </lines>
+    </verse>
+    <verse name="v2">
+      <lines>എല്ലാം നഷ്ടമായി തീർന്നിടിലും <br/>തൻ കൃപ എന്മേൽ ഉള്ളതിനാൽ <br/>നഷ്ട്ടങ്ങൾ എല്ലാം ലാഭമായി മാറും <br/>പൂർണമായി വിശ്വസിച്ചാൽ </lines>
+    </verse>
+    <verse name="v3">
+      <lines>കണ്ടിടുന്നു ഞാൻ കണ്ടിടുന്നു <br/>നാഥൻ ചെയ്ത നന്മകളെ <br/>ആർക്കും കെടുത്തുവാൻ ആവുകയില്ല <br/>ദൈവമെൻ ചാരെയുണ്ട് ....</lines>
+    </verse>
+  </lyrics>
+</song>

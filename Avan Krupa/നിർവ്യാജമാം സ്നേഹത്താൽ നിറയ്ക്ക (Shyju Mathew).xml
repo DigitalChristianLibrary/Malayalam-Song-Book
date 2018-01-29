@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T14:17:25">
+  <properties>
+    <titles>
+      <title>നിർവ്യാജമാം സ്നേഹത്താൽ നിറയ്ക്ക</title>
+      <title>Nirvyajamam snehathaal niraykka</title>
+    </titles>
+    <copyright>Rafa Media International</copyright>
+    <authors>
+      <author>Shyju Mathew</author>
+    </authors>
+    <songbooks>
+      <songbook name="Avan Krupa"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിർവ്യാജമാം സ്നേഹത്താൽ നിറയ്ക്ക <br/>ക്രിസ്തേശുവേ അങ്ങേ സ്തുതിപ്പാൻ<br/>അങ്ങേ വണങ്ങാൻ കൃപയേകണേ  <br/>എൻ ജീവകാലം ഈ ക്ഷോണിതലേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അനുദിനവും എൻ  ജീവിതത്തിൽ<br/>നീ ചെയ്യും ക്രിയകൾ ഓർത്തിടുകിൽ<br/>നീ ഏകും നന്മകൾ നിനക്കുകിൽ എന്മനം<br/>സ്തുതിയാൽ നിറഞ്ഞങ്ങു കവിഞ്ഞിടുമേ </lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശുഭതയിലും എൻ  ദുഃഖത്തിലും<br/>സമ്പത്തിലും വൻ  വറുതിയിലും<br/>അങ്ങേ എന്നും സ്നേഹിച്ചിടാനായ്<br/>കൃപയേകണേ ഈ ഏഴയെന്നിൽ</lines>
+    </verse>
+  </lyrics>
+</song>
