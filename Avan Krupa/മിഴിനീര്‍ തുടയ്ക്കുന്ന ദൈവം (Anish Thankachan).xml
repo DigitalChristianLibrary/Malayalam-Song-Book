@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T16:18:00">
+  <properties>
+    <titles>
+      <title>മിഴിനീര്‍ തുടയ്ക്കുന്ന ദൈവം</title>
+      <title>Mizhineer thudakkunna daivam</title>
+    </titles>
+    <copyright>Rafa Media International</copyright>
+    <authors>
+      <author>Anish Thankachan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Avan Krupa"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മിഴിനീര്‍ തുടയ്ക്കുന്ന ദൈവം <br/>മിഴിയിണ തഴുകുന്ന ദൈവം<br/>ആഴിയിന്‍ ആഴങ്ങളില്‍<br/>ആഴാതെ കാക്കുന്ന ദൈവം</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ഈ ദൈവം എന്റെ ദൈവം<br/>ഈ ദൈവം നിത്യ ദൈവം<br/>ഇവനോട് തുല്യനായി ആര്‍ <br/>ഇഹത്തിലും പരത്തിലും ആര്‍</lines>
+    </verse>
+  </lyrics>
+</song>

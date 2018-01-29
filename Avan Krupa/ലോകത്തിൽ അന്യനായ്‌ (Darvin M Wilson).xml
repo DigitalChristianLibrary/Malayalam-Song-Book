@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T14:15:06">
+  <properties>
+    <titles>
+      <title>ലോകത്തിൽ അന്യനായ്‌</title>
+      <title>Lokathil anyanaayi</title>
+    </titles>
+    <copyright>Rafa Media International</copyright>
+    <authors>
+      <author>Darvin M Wilson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Avan Krupa"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ലോകത്തിൽ അന്യനായ്‌ മാറുകിലും<br/>ലോകത്തിൽ നിന്ദ്യനായ്‌ തീരുകിലും<br/>ആശ്വാസം തേടും ഞാൻ നിൻ കരത്തിൽ<br/>മറ്റാരുമില്ലെനിക്കാശ്വാസമായ് </lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീറുമെൻ മനസ്സു തേടുന്നതാം<br/>ലോകത്തിൻ ആശ്വാസം തള്ളുന്നു ഞാൻ<br/>നീറും മനസ്സുമായ്‌ കാൽവറിയിൽ<br/>എന്നേയും കണ്ടോരു നാഥനുണ്ട്‌</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആശ്വാസം നിന്നിൽ കാണുന്നു ഞാൻ <br/>ശാശ്വത സന്തോഷ കലവറയിൽ <br/>വേദനയിലും എൻ ക്ലേശത്തിലും <br/>നിൻ സാന്ത്വനസ്പർശം എൻ ആശ്വാസമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>രോഗത്തിൽ നിന്നുള്ള. സൗഖ്യത്തേക്കാൾ <br/>വേദനയിൽ നിന്നുള്ള രക്ഷയേക്കാൾ <br/>ഉള്ളം തകർന്നു കരഞ്ഞീടുമ്പോൾ  <br/>നിൻ കര സ്പർശമെൻ സായൂജ്യമേ</lines>
+    </verse>
+  </lyrics>
+</song>

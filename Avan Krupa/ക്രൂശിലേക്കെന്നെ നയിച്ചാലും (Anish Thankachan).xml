@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T16:21:53">
+  <properties>
+    <titles>
+      <title>ക്രൂശിലേക്കെന്നെ നയിച്ചാലും</title>
+      <title>Krooshilekkenne nayichalum</title>
+    </titles>
+    <copyright>Rafa Media International</copyright>
+    <authors>
+      <author>Anish Thankachan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Avan Krupa"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രൂശിലേക്കെന്നെ നയിച്ചാലും... <br/>അത് ക്രൂശിതൻ സ്നേഹം ചൊരിഞ്ഞയിടം <br/>ക്രൂരതയിൻ പൎവ്വം ഉയൎന്നയിടം... <br/>അത് കൂരിരുൾ കറപൂണ്ട തലയോടിടം... <br/>എന്നെ രക്തത്താൽ വാങ്ങിയ അൻപിന്നിടം ... (2) </lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നാത്മനൊമ്പരം തീൎന്നയിടം... <br/>അത് എൻ പാപ പാശങ്ങൾ അഴിഞ്ഞയിടം <br/>എൻ ഭാവി സൎവ്വവും നെയ്തയിടം... <br/>അത് എൻ തോഴനേശുവിൽ ചേൎന്നയിടം... <br/>താൻ തൻ ജീവനെന്നിൽ പകൎന്നയിടം (2) </lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീതി വൻ വിജയം വരിച്ചയിടം... <br/>അത് സാത്താന്യ വിഷമുള്ളൊടിഞ്ഞയിടം <br/>നിത്യ രക്ഷാവേല തീൎത്തയിടം... <br/>അത് നിത്യത തൻ വീഥി തുറന്നയിടം... <br/>ലോക പാപക്കടം തീൎത്ത കൃപയിന്നിടം (2) ക്രൂശിലേക്കെന്നെ...</lines>
+    </verse>
+  </lyrics>
+</song>
