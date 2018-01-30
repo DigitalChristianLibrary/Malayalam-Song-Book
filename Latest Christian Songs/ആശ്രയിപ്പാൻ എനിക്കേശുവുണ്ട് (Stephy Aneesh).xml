@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-30T10:07:35">
+  <properties>
+    <titles>
+      <title>ആശ്രയിപ്പാൻ എനിക്കേശുവുണ്ട്</title>
+      <title>Ashreyipaan Enikeshuvund</title>
+    </titles>
+    <authors>
+      <author>Stephy Aneesh</author>
+    </authors>
+    <songbooks>
+      <songbook name="Latest Christian Songs"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആശ്രയിപ്പാൻ എനിക്കേശുവുണ്ട്<br/>ആശ്വസിപ്പിക്കാൻ എൻ ചാരെയുണ്ട്<br/>ആനന്ദനേരത്തും ആകുലനേരത്തും<br/>ആശ്വാസദായകൻ യേശുമാത്രം...</lines>
+    </verse>
+    <verse name="c1">
+      <lines> യേശുമാത്രമാണെൻ ആശ്രയം..<br/>        യേശുമാത്രമാണെൻ  ആശ്വാസം..</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മരുഭുയാത്രയിൽ കൈവിടാതെ<br/>മാർവ്വോട് ചേർത്തണക്കും<br/>മാറാത്ത നൽസഖിയായ്    <br/>എന്നേശുമാത്രം...(യേശു മാത്രമാണെൻ..)</lines>
+    </verse>
+    <verse name="v3">
+      <lines> കഷ്ടതയിലും അരികിൽ <br/>  കടന്നെത്തി ആശ്വസിപ്പിക്കാൻ<br/>  കണ്ണീർ തുടപ്പാൻ<br/>  എന്നേശുമാത്രം...     (യേശു മാത്രമാണെൻ..)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സന്താപകാലത്തും കൂടെ- <br/>ഉണ്ടെപ്പോഴും തുണയായ് <br/>ഉത്തമസ്നേഹിതനായ്<br/>എന്നേശുമാത്രം...(യേശു മാത്രമാണെൻ..)</lines>
+    </verse>
+  </lyrics>
+</song>

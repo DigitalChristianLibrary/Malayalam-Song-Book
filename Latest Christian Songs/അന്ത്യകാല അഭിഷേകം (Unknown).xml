@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-30T07:35:11">
+  <properties>
+    <titles>
+      <title>അന്ത്യകാല അഭിഷേകം</title>
+      <title>Andyakala Abhishekam</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Latest Christian Songs"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines> അന്ത്യകാല അഭിഷേകം <br/>സകല ജഡത്തിന്മേലും <br/>കൊയ്തു കാല സമയമല്ലോ <br/>ആത്മാവിൽ നിറക്കേണമേ(2)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>തീപോലെ ഇറങ്ങണമേ<br/>   അഗ്നി നാവായി പതിയണമേ<br/>   കൊടും കാറ്റായി വിശേണമേ<br/>   ആത്മ നദിയായി ഒഴുകേണമേ(2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>അസ്ഥിയുടെ താഴ് വരയിൽ<br/>ഒരു സൈന്യത്തെ ഞാൻ കാണുന്നു<br/>അധികാരം പകരണമേ<br/>ഇനി ആത്‌മാവിൽ നിറച്ചീടാൻ<br/>                               (തീപോലെ )</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കർമേലിലെ പ്രാർഥനയിൽ<br/>ഒരു കൈമേഘം ഞാൻ കാണുന്നു<br/>ആഹാബ് വിറച്ചപോലെ<br/>അഗ്നി മഴയായി പെയ്യേണമേ<br/>                              (തീപോലെ)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>സീനായി മലമുകളിൽ<br/>ഒരു തീജ്വാല ഞാൻ കാണുന്നു<br/>ഇസ്രായേലിൻ ദൈവമേ<br/>ആ തീയെന്നിൽ നിറക്കേണമേ<br/>                                (തീപോലെ)</lines>
+    </verse>
+  </lyrics>
+</song>

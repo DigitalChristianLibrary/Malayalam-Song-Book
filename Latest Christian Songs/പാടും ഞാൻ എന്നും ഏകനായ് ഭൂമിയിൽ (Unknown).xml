@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-30T09:15:05">
+  <properties>
+    <titles>
+      <title>പാടും ഞാൻ എന്നും ഏകനായ് ഭൂമിയിൽ</title>
+      <title>Padum Njan Ennum Ekanayi Bhoomiyil</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Latest Christian Songs"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>പാടും ഞാൻ എന്നും ഏകനായ് ഭൂമിയിൽ <br/>എൻ നാഥൻ യേശു കുടെയുള്ളതാൽ <br/>പതറുകയില്ല ഞാൻ പേടിക്കയില്ല ഞാൻ <br/>എൻ പ്രിയൻ കരങ്ങൾ പിടിച്ചതിനാൽ (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>മരുവിലെ വാസം ചേതമെന്നെണ്ണി  ഞാൻ <br/>വരുവാനുള്ള ദിനം ഓർത്തു ഞാൻ ഘോഷിക്കും <br/>നിത്യ സന്തോഷമെൻ ആ നല്ല നാളുകൾ <br/>മുൻപിൽ കണ്ടു ഞാൻ ദിനം ദിനം ഓടുന്നെ (2)   (പാടും ഞാൻ )</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കഷ്ടത നിറഞ്ഞയി ഭൂമിയെ വിട്ട് ഞാൻ <br/>നിത്യ രാജ്യത്തിലേക്ക് പറന്നു പോകും <br/>നിത്യത നമുക്ക് ആശ്വാസമേകുമെ <br/>അതിനായി ഞാനും ഓടിടുന്നെ (2) (പാടും ഞാൻ )</lines>
+    </verse>
+  </lyrics>
+</song>

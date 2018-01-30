@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-30T10:57:10">
+  <properties>
+    <titles>
+      <title>യേശുവിൽ എന്നും എന്നെ മറയ്ക്കണെ</title>
+      <title>Yeshuvil ennum enne maraykaanne</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Latest Christian Songs"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>യേശുവിൽ എന്നും എന്നെ മറയ്ക്കണെ       <br/>നിൻ ശക്തിയാൽ എന്നെ നിറയ്ക്കണെ<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>സമുദ്രങ്ങൾ എന്റെ നേരെ ഉയർന്നാലും       <br/>നടന്നിടും പെരുവെള്ളത്തിൻ മീതെ<br/>എൻ പിതാവാം ദൈവം വാഴുന്നതാൽ<br/>ഭയമില്ല എനിക്കൊന്നിലും<br/>ഭയമില്ല ഇനി ഒന്നിലും</lines>
+    </verse>
+    <verse name="c2">
+      <lines>യേശു എന്നും എന്റെ ആശ്രയം<br/>ആത്മ ശക്തിയാൽ ഞാൻ ജീവിക്കും എന്നും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സമുദ്രങ്ങൾ എന്റെ നേരെ ഉയർന്നാലും<br/>നടന്നിടും പെരുവെള്ളത്തിൻ മീതെ<br/>എൻ പിതാവാം ദൈവം വാഴുന്നതാൽ<br/>ഭയമില്ല എനിക്കൊന്നിലും<br/>ഭയമില്ല ഇനി ഒന്നിലും</lines>
+    </verse>
+  </lyrics>
+</song>
