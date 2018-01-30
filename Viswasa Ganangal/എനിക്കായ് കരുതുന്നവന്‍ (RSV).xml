@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-30T14:00:19">
+  <properties>
+    <titles>
+      <title>എനിക്കായ് കരുതുന്നവന്‍</title>
+      <title>Enikkayi Karuthunnavan</title>
+    </titles>
+    <copyright>7 Eyes</copyright>
+    <authors>
+      <author>RSV</author>
+    </authors>
+    <songbooks>
+      <songbook name="Viswasa Ganangal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>എനിക്കായ് കരുതുന്നവന്‍ <br/>ഭാരങ്ങള്‍ വഹിക്കുന്നവന്‍ <br/>എന്നെ കൈവിടാത്തവന്‍ <br/>യേശു എന്‍ കൂടെയുണ്ട്</lines>
+    </verse>
+    <verse name="c1">
+      <lines>പരീക്ഷ എന്റെ ദൈവം അനുവദിച്ചാല്‍ <br/>പരിഹാരം എനിക്കായ് കരുതീട്ടുണ്ട് <br/>എന്തിനെന്നു ചോദിക്കില്ല ഞാന്‍ <br/>എന്റെ നന്മക്കായെന്നറിയുന്നു ഞാന്‍ </lines>
+    </verse>
+    <verse name="v1">
+      <lines>എരിതീയില്‍ വീണാലും <br/>അവിടെ ഞാന്‍ ഏകനല്ല <br/>വീഴുന്നതോ തീയിലല്ല <br/>എന്‍ യേശുവിന്‍ കരങ്ങളിലാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഘോരമാം ശോധനയിന്‍ <br/>ആഴങ്ങള്‍ കടന്നിടുമ്പോള്‍ <br/>നടക്കുന്നതേശുവത്രെ <br/>ഞാനവന്‍ കരങ്ങളിലാം </lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദൈവം എനിക്കനുകൂലം <br/>അതു നന്നായറിയുന്നു ഞാന്‍ <br/>ദൈവം അനുകൂലമെങ്കില്‍ <br/>ആരെനിക്കെതിരായിടും </lines>
+    </verse>
+  </lyrics>
+</song>
