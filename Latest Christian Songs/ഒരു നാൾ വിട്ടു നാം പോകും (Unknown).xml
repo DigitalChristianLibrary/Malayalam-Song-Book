@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-30T10:34:34">
+  <properties>
+    <titles>
+      <title>ഒരു നാൾ വിട്ടു നാം പോകും</title>
+      <title>Oru nal vittu nam pokum</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Latest Christian Songs"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>ഒരു നാൾ വിട്ടു നാം പോകും<br/>എൻ യേശുവിൻ സന്നിധി ചേരും <br/>വേദന ഇല്ലാത്ത നാട്ടിൽ<br/>സമാധാനത്തോടെ പാർക്കും<br/>ഹാ...എന്തൊരാനന്ദമേ...(2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>മുൻപേ പോയ വൃതന്മാർ<br/>എത്രയോ ഭാഗ്യവാന്മാർ<br/>കാഹളം വാനിൽ മുഴങ്ങുന്പോൾ<br/>ദൂതർ കാഹളം മുഴക്കന്പോൾ<br/>മധ്യവാനിൽ വന്നു ചേരും (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആരും കാണാത്ത നാട്ടിൽ<br/>പുതുപുത്തൻ ഭവനമതിൽ<br/>നാഥൻ നമ്മെ ചേർക്കും <br/>നമ്മെ മാറോടണക്കും<br/>നാം എത്ര ഭാഗ്യവാൻമാർ (2)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-30T10:51:49">
+  <properties>
+    <titles>
+      <title>എന്റെ ജീവനും എന്നും നന്ദിയോടെ</title>
+      <title>Ente jeevanum ennum nandhiyode</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Latest Christian Songs"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>എന്റെ ജീവനും എന്നും നന്ദിയോടെ - ഉള്ള <br/>ജീവിതവും നിന്നിൽ സമർപ്പിക്കുന്നേ <br/>എന്റെ ആത്‌മാവിൽ തിരു സാന്നിധ്യം <br/>എനിക്കെന്നും പകർന്നാൽ മതി </lines>
+    </verse>
+    <verse name="c1">
+      <lines>നീ മതി  എനിക്ക് നിൻ സാന്നിധ്യം മതി <br/>നിൻ ഹൃദയത്തിൽ വസിച്ചാൽ മതി </lines>
+    </verse>
+    <verse name="v1">
+      <lines>ഈ ലോകത്തിൽ ജീവിക്കും നാളെല്ലാം <br/>നിനക്കായി ഞാനെന്നും ജീവിക്കുവാൻ <br/>എൻ ജീവനെക്കാളും നിൻ സ്നേഹത്തെ <br/>വിലയേറിയതായ്‌ എണ്ണുവാൻ </lines>
+    </verse>
+    <verse name="c2">
+      <lines>നിൻ സാന്നിധ്യം പകർന്നീടണേ<br/>ക്രൂശിൻ മഹത്വത്തെ കാണട്ടെ ഞാൻ </lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്റെ കഷ്ടങ്ങളും എന്റെ നിന്ദകളും <br/>നിന്റെ ക്രൂശോളം ആഴമല്ലേ<br/>നിൻ സേവക്കായ് എന്തും സഹിച്ചീടുവാൻ <br/>കൃപ നൽകണേ യേശുനാഥാ </lines>
+    </verse>
+    <verse name="c3">
+      <lines>ജീവനോ എൻ മരണമതോ <br/>നിൻ സ്നേഹത്തിൽ നിന്നീടും ഞാൻ</lines>
+    </verse>
+  </lyrics>
+</song>
