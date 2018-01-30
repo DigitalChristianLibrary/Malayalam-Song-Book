@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T14:13:37">
+  <properties>
+    <titles>
+      <title>അവന്‍ കൃപ മതിയെനിക്ക്</title>
+      <title>Avan Krupa mathi enikku</title>
+    </titles>
+    <copyright>Rafa Media International</copyright>
+    <authors>
+      <author>Minson Mathew</author>
+    </authors>
+    <songbooks>
+      <songbook name="Avan Krupa"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>ഞാന്‍ എന്‍ പ്രിയനുള്ളവള്‍ <br/>എന്‍ പ്രിയന്‍ എനിക്കുള്ളവന്‍<br/>പ്രിയന്‍ നിഴല്‍ തണലെനിക്ക്</lines>
+    </verse>
+    <verse name="c1">
+      <lines>അവന്‍ കൃപ മതിയെനിക്ക് <br/>അവനിടം മറവെനിക്ക്</lines>
+    </verse>
+    <verse name="v1">
+      <lines>അവനൊപ്പം പറയാനൊരാളില്ല<br/>അവന്‍ എന്നുമെന്നുമെന്‍ പ്രിയതോഴന്‍<br/>എന്‍ ജീവനാഥനായി എന്നുമെന്റെ കൂടെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആകാശ മേഘത്തേരില്‍<br/>ദൂതന്മാരൊപ്പമായി <br/>എന്നെയും ചേര്‍പ്പതിനായി<br/>പ്രിയന്‍ വന്നിടും നേരം </lines>
+    </verse>
+    <verse name="v3">
+      <lines>മാലിന്യമേല്‍ക്കാതെ<br/>കുറുപ്രാവ് പോലെ ഞാന്‍ <br/>മണിയറയില്‍ എത്താന്‍ <br/>കാത്തു കാത്തീടുന്നു</lines>
+    </verse>
+    <verse name="e2">
+      <lines>നിനക്ക് തുല്യനായി ആരുമില്ലേശുനാഥാ<br/>എന്‍ ജീവനാഥനായി എന്നും നീ മതി ദേവാ</lines>
+    </verse>
+  </lyrics>
+</song>

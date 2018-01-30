@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T14:18:59">
+  <properties>
+    <titles>
+      <title>കാണും ഞാന്‍ നിന്‍ രൂപം</title>
+      <title>Kaanum njan nin roopam</title>
+    </titles>
+    <copyright>Rafa Media International</copyright>
+    <authors>
+      <author>Shebu Tharakan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Avan Krupa"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാണും ഞാൻ നിൻ രൂപം <br/>കേൾക്കും ഞാൻ നിൻ ഇമ്പസ്വരം..<br/>പ്രാണപ്രിയ നിൻ വരവിനായി <br/>ഞാൻ കാത്തിരിപ്പൂ നാളുകളായി...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്നേഹത്തിൻ പ്രതീകമേ <br/>ആശ്വാസത്തിൻ ദായകനെ <br/>സൗഖ്യത്തിൻ നായകനെ <br/>അങ്ങേ ഞങ്ങൾ ആരാധിക്കുന്നു </lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവൻറെ ഉറവിടമേ  <br/>ജീവ ജല വാരിധിയെ <br/>ജീവനെഴും സാക്ഷികളായി <br/>അങ്ങേ ഞങ്ങൾ ആരാധിക്കുന്നു</lines>
+    </verse>
+  </lyrics>
+</song>

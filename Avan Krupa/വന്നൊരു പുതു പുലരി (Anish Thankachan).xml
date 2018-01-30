@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T16:23:17">
+  <properties>
+    <titles>
+      <title>വന്നൊരു പുതു പുലരി</title>
+      <title>Vannoru puthu pulari</title>
+    </titles>
+    <copyright>Rafa Media International</copyright>
+    <authors>
+      <author>Anish Thankachan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Avan Krupa"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്നൊരു പുതു പുലരി<br/>നിന്നത് മുദമരുളി <br/>പോകയായി ഒരു രജനി<br/>കാലമാം തേരിലേറി </lines>
+    </verse>
+  </lyrics>
+</song>
