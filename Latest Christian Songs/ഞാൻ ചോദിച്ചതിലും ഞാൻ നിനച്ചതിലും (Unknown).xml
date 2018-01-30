@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-30T10:13:04">
+  <properties>
+    <titles>
+      <title> ഞാൻ ചോദിച്ചതിലും ഞാൻ നിനച്ചതിലും</title>
+      <title>Njan chothichathilum njan ninachathilum</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Latest Christian Songs"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>ഞാൻ ചോദിച്ചതിലും ഞാൻ നിനച്ചതിലും <br/>എത്ര അതിശയമായ് നടത്തി <br/>എൻ്റെ വേദനയിലും എൻ കണ്ണീരിലും <br/>എത്ര വിശ്വസ്തനായ്  എന്നെ കരുതി </lines>
+    </verse>
+    <verse name="c1">
+      <lines>ഞാൻ ഭാഗ്യവാൻ -  ഞാൻ ഭാഗ്യവാൻ<br/>എന്നും എപ്പോഴും നീ കൂടെയുണ്ടല്ലോ <br/>ഭയമേതുമില്ല  പതറീടുകില്ല<br/>എന്നും എപ്പോഴും നീ  കാവലുള്ളതാൽ<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>എൻ്റെ നാവൊന്നു പിഴച്ചീടുകിൽ <br/>അരുതെന്നു പറയുമവൻ<br/>എൻ്റെ നിനവുകൾ ഒന്നു മാറിയാൽ <br/>ധൈര്യം നൽകി മാർവോടണയ്കും <br/>ഇത്ര നല്ല സ്നേഹിതൻ അരുമ നാഥൻ <br/>എന്നെ കൃപയാൽ നടത്തീടുമേ  <br/>                                            (ഞാൻ ഭാഗ്യവാൻ)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻ്റെ ബലമൊന്നു ക്ഷയിച്ചീടുകിൽ <br/>തുണയേകി കരുതുമവൻ<br/>എൻ്റെ മിഴികൾ ഒന്നു നിറഞ്ഞാൽ <br/>ആശയാലെൻ മനം നിറയ്ക്കും <br/>ഇത്ര നല്ല പാലകൻ അരുമനാഥൻ <br/>എന്നെ ജയത്തോടെ നടത്തീടുമേ <br/>                                             (ഞാൻ ഭാഗ്യവാൻ)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എൻ്റെ കാലൊന്നു വഴുതീടുകിൽ<br/>കരം തന്നു നടത്തുമവൻ<br/>എൻ്റെ കുറവുകൾ ഏറ്റുപറഞ്ഞാൽ <br/>സ്വന്തമാക്കി ചേർത്തീടുമേ <br/>ഇത്ര നല്ല രക്ഷകൻ അരുമനാഥൻ <br/>എന്നെ ബലത്തോടെ നടത്തീടുമേ <br/>                                            (ഞാൻ ഭാഗ്യവാൻ)</lines>
+    </verse>
+  </lyrics>
+</song>
